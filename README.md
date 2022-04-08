@@ -9,7 +9,6 @@ In this challenge, we generated more cities based on 2000 size and added the wea
 
 ## Result
 
-
 In the marker layer map, we can see the details of each city showing Hotel Name and Current Weather Description for any marker on the map
 
 ![WeatherPy_vacation_map](https://user-images.githubusercontent.com/100378319/162529244-753d2d8f-e517-4447-9f49-5f93b302d097.png)
@@ -25,7 +24,7 @@ This marker layer map shows the details of four cities for the itinerary.
 ## Summary
 There are two recommendations to take the app to the next level and a more accurate result.
 
-1. Add another customer input for entering country code to find a more specific place customer prefer to go travel
+1. Add another customer input for entering country code to find a more specific place that customer prefer to go travel to.
 
-2. Another thing is to add an extra code after visualizing the itinerary to save the result such as the Hotel Name and city's detail to a csv file so customer can save it as record for their future use.
+2. Add an extra code after visualizing the itinerary to save the result such as the Hotel Name and city's detail to a csv file, so customer can save it as record and review it in future.
 
